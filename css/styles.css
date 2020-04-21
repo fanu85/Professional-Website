@@ -1,9 +1,9 @@
-p#first{
+#first{
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 500;
     font-style: oblique;
     font-stretch: extra-condensed;
-    color: chartreuse;
+    color: rgb(119, 136, 102);
     background-color: darkgray;
 }
